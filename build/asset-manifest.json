@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/sharkwhite21/githup-prueba/static/css/main.f515234f.css",
+    "main.js": "/sharkwhite21/githup-prueba/static/js/main.72b86abe.js",
+    "static/media/creditCards.png": "/sharkwhite21/githup-prueba/static/media/creditCards.2a17d0676a8256fa772b.png",
+    "index.html": "/sharkwhite21/githup-prueba/index.html",
+    "static/media/cart-shopping-solid.svg": "/sharkwhite21/githup-prueba/static/media/cart-shopping-solid.d4c309bdf647339dee3c508977bff619.svg",
+    "static/media/bag-shopping-solid.svg": "/sharkwhite21/githup-prueba/static/media/bag-shopping-solid.a7baea2914320ae3bab27b16cb77109d.svg",
+    "static/media/user-solid.svg": "/sharkwhite21/githup-prueba/static/media/user-solid.2dad48cb7fe67e363245b5647b431a6e.svg",
+    "main.f515234f.css.map": "/sharkwhite21/githup-prueba/static/css/main.f515234f.css.map",
+    "main.72b86abe.js.map": "/sharkwhite21/githup-prueba/static/js/main.72b86abe.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f515234f.css",
+    "static/js/main.72b86abe.js"
+  ]
+}
